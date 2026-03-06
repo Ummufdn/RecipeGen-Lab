@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Izgara Tavuk & Pilav",
+    "calories": 550,
+    "protein": 45,
+    "cost": 150,
+    "ingredients": ["tavuk", "pirinç", "tereyağı"]
+  },
+  {
+    "id": 2,
+    "name": "Mercimek Çorbası",
+    "calories": 200,
+    "protein": 10,
+    "cost": 40,
+    "ingredients": ["mercimek", "soğan", "salça"]
+  },
+  {
+    "id": 3,
+    "name": "Fıstıklı Soslu Tavuk",
+    "calories": 650,
+    "protein": 35,
+    "cost": 180,
+    "ingredients": ["tavuk", "yer fıstığı", "krema"]
+  },
+  {
+    "id": 4,
+    "name": "Zeytinyağlı Taze Fasulye",
+    "calories": 180,
+    "protein": 4,
+    "cost": 70,
+    "ingredients": ["fasulye", "domates", "zeytinyağı"]
+  },
+  {
+    "id": 5,
+    "name": "Kıymalı Yumurta",
+    "calories": 400,
+    "protein": 25,
+    "cost": 90,
+    "ingredients": ["yumurta", "dana kıyma", "tereyağı"]
+  },
+  {
+    "id": 6,
+    "name": "Ton Balıklı Salata",
+    "calories": 320,
+    "protein": 30,
+    "cost": 110,
+    "ingredients": ["ton balığı", "marul", "mısır"]
+  },
+  {
+    "id": 7,
+    "name": "Etli Nohut",
+    "calories": 450,
+    "protein": 22,
+    "cost": 130,
+    "ingredients": ["nohut", "dana eti", "soğan"]
+  },
+  {
+    "id": 8,
+    "name": "Sebzeli Makarna",
+    "calories": 480,
+    "protein": 12,
+    "cost": 65,
+    "ingredients": ["makarna", "biber", "mantar"]
+  }
+]
