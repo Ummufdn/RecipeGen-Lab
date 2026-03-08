@@ -37,7 +37,7 @@ def load_db():
 
 #LLM ile Kısıt Çıkarma Fonksiyonu
 def get_constraints_from_llm(user_prompt):
-    model = genai.GenerativeModel('gemini-1.5-flash')
+    model = genai.GenerativeModel('gemini-2.5-flash-lite')
     
     system_instruction = """
     Sen bir diyetisyen yardımcısısın. Kullanıcı metnini analiz et ve SADECE JSON döndür.
